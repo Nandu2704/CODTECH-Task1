@@ -4,3 +4,6 @@
 **Domain:** Python Programming
 **Duration:** 4 Weeks(DEC 5TH 2024-JAN 5TH 2025)
 **Mentor:** SRAVANI GOUNI
+
+##  Overview of Project
+### Project: Python program that acts as a basic calculator.
